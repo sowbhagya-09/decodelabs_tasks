@@ -1,0 +1,160 @@
+# 🐍 Python Mini Projects
+
+This repository contains three beginner-friendly Python projects designed to practice fundamental programming concepts such as loops, lists, user input, exception handling, modules, and string manipulation.
+
+## 📂 Projects Included
+
+### 1. 📝 To-Do List
+
+A simple command-line application that allows users to manage their daily tasks.
+
+#### Features
+- Add new tasks
+- View all tasks
+- Numbered task list
+- Menu-driven interface
+
+#### Concepts Used
+- Lists
+- While Loop
+- For Loop
+- Conditional Statements
+- `append()`
+- `enumerate()`
+- User Input
+
+---
+
+### 2. 💰 Expense Tracker
+
+A command-line application that records multiple expenses and calculates the total amount spent.
+
+#### Features
+- Add multiple expenses
+- Running total calculation
+- Handles invalid input
+- Displays final expense total
+
+#### Concepts Used
+- Variables
+- Accumulator Pattern
+- While Loop
+- Exception Handling (`try` / `except`)
+- Type Conversion (`float`)
+- Formatted Output
+
+---
+
+### 3. 🔐 Random Password Generator
+
+A password generator that creates secure random passwords based on the length provided by the user.
+
+#### Features
+- User-defined password length
+- Random password generation
+- Uses letters and numbers
+- Handles invalid input
+
+#### Concepts Used
+- Python Modules (`random`, `string`)
+- String Manipulation
+- Loops
+- Conditional Statements
+- Exception Handling
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+
+---
+
+## 📁 Repository Structure
+
+```
+Python-Mini-Projects/
+│
+├── todo_list.py
+├── expense_tracker.py
+├── password_generator.py
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Python-Mini-Projects.git
+```
+
+2. Open the project folder
+
+```bash
+cd Python-Mini-Projects
+```
+
+3. Run any project
+
+```bash
+python todo_list.py
+```
+
+or
+
+```bash
+python expense_tracker.py
+```
+
+or
+
+```bash
+python password_generator.py
+```
+
+---
+
+## 📚 Skills Practiced
+
+- Variables
+- Data Types
+- Lists
+- Loops
+- Conditional Statements
+- Exception Handling
+- Functions
+- String Manipulation
+- Python Standard Library
+- User Input & Output
+
+---
+
+## 🚀 Future Improvements
+
+- **To-Do List**
+  - Delete tasks
+  - Mark tasks as completed
+  - Save tasks to a file
+
+- **Expense Tracker**
+  - Categorize expenses
+  - Save expense history
+  - Generate reports
+
+- **Password Generator**
+  - Include special characters
+  - Password strength indicator
+  - Copy password to clipboard
+
+---
+
+## 👩‍💻 Author
+
+**Sowbhagya**
+
+This repository was created to practice Python fundamentals through simple command-line projects and strengthen problem-solving skills.
+
+
